@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/paete/AndroidStudioProjects/instaclone/app/src/main/res/drawable/button_background.xml" value="0.2985" />
+        <entry key="..\:/Users/paete/AndroidStudioProjects/instaclone/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/paete/AndroidStudioProjects/instaclone/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/paete/AndroidStudioProjects/instaclone/app/src/main/res/layout/activity_register.xml" value="0.6957070707070707" />
+        <entry key="..\:/Users/paete/AndroidStudioProjects/instaclone/app/src/main/res/layout/activity_start.xml" value="0.358695652173913" />
         <entry key="..\:/Users/user/AndroidStudioProjects/RecentVerInstacloneForSuccess/app/src/main/res/drawable-anydpi/ic_save.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/RecentVerInstacloneForSuccess/app/src/main/res/drawable/button_background.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/RecentVerInstacloneForSuccess/app/src/main/res/drawable/button_black.xml" value="0.1" />
