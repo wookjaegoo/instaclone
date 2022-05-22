@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+// 메뉴아이템에 색깔추가 유저가 눌렀을때 아이템 charged되게끔
+    <item android:color="@android:color/black"
+        android:state_checked="true"/>
+    <item android:color="@color/grey"/>
+
+</selector>
